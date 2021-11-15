@@ -65,10 +65,10 @@ const Header = props => {
         >
           <Heading as="h1" size="lg" letterSpacing={'-.1rem'}>
             <Avatar
-              name="Muhammad Ahmad"
+              name="Arup Mandal"
               size="lg"
               src={UserIcon}
-              // src="https://avatars2.githubusercontent.com/u/37842853?v=4"
+              // src="https://avatars.githubusercontent.com/u/40239193?v=4"
             />
           </Heading>
 
